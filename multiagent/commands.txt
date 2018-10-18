@@ -1,3 +1,4 @@
+(All done from the shell)
 python pacman.py 								//to play the game manually
 python autograder.py 							//to autograde all questions
 python autograder.py -q {q1,q2,q3,q4,q5}		//for a specific question with the GUI
